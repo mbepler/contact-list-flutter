@@ -1,16 +1,19 @@
 # agenda_contatos
 
-A new Flutter project.
+Project to put in pratice how to work with flutter and a local database.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+How install and configure the Flutter
 
-A few resources to get you started if this is your first Flutter project:
+https://flutter.dev/docs/get-started/install
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+At this projetct the flutter used was at version 1.20.2.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To verify if the flutter is ready to run, execute the command 
+
+```
+flutter doctor
+```
+
+You will need a Android SDK to run the emulator.
